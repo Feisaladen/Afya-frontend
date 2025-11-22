@@ -1,4 +1,8 @@
+
 Afya-Link Frontend 🏥
+
+AI-Powered Health Assistant | Production-Ready React Application
+
 Your Personal Health Assistant - Powered by AI, Works Offline
 
 🎯 Overview
@@ -16,38 +20,19 @@ A modern, responsive frontend for an AI-powered health assistant that helps user
 
 🛠️ Tech Stack
 
-Framework: React 18
+
 Styling: Tailwind CSS
-State Management: React Context / Redux
-Routing: React Router
-PWA: Workbox
-Icons: Lucide React / Heroicons
-Build Tool: Vite
+HTML5
 
-
-🚀 Getting Started
-Prerequisites
-
-Node.js 18+ and npm/yarn
 
 Installation
 bash# Clone the repository
-git clone https://github.com/yourusername/afya-link-frontend.git
+git clone https://github.com/Feisalade/afya-link-frontend.git
 
 # Navigate to project
 cd afya-link-frontend
 
-# Install dependencies
-npm install
 
-# Start development server
-npm run dev
-Build for Production
-bash# Create optimized build
-npm run build
-
-# Preview production build
-npm run preview
 
 🎨 Design System
 Color Palette
@@ -101,4 +86,4 @@ Contributions are welcome! Please read our Contributing Guide first.
 MIT License - see LICENSE file
 
 📧 Contact
-Project Link: https://github.com/yourusername/afya-link-frontend
+Project Link: https://github.com/Feisaladen/afya-link-frontend
