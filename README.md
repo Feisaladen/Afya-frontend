@@ -1,4 +1,3 @@
-
 Afya-Link Frontend 🏥
 
 AI-Powered Health Assistant | Production-Ready React Application
