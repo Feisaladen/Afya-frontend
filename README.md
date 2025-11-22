@@ -1,88 +1,95 @@
-Afya-Link Frontend 🏥
+# Afya-Link Frontend  
+AI-Powered Health Assistant | Modern Web Application
 
-AI-Powered Health Assistant | Production-Ready React Application
+A fast, simple, and responsive frontend for an AI-powered health assistant that helps users understand symptoms, explore possible causes, and view remedy suggestions. Works both online and offline.
 
-Your Personal Health Assistant - Powered by AI, Works Offline
+## Overview
+Afya-Link Frontend is built using plain HTML, CSS (Tailwind), and JavaScript. It provides a clean UI, AI chat interface, and full offline support through PWA technology.
 
-🎯 Overview
-A modern, responsive frontend for an AI-powered health assistant that helps users understand symptoms, identify possible causes, and discover remedies. Built with React and Tailwind CSS for a seamless, production-grade user experience.
+## Features
 
-✨ Features
+Symptom Analysis  
+- Simple and intuitive form for entering symptoms  
+- Tracks and displays previous checks  
 
-🔍 Symptom Analysis Interface - Clean, intuitive form for inputting and tracking symptoms
-🤖 AI Chat Integration - Natural language interface for health inquiries
-💊 Remedy Display - Beautiful cards showcasing treatment suggestions
-📴 Offline Support - PWA with service workers for offline functionality
-🎨 Modern UI/UX - Polished design with smooth animations and transitions
-📱 Fully Responsive - Optimized for mobile, tablet, and desktop
+AI Chat Interface  
+- Natural language input  
+- Ask health-related questions and receive AI responses  
 
+Remedy Suggestions  
+- Clean remedy cards showing recommended treatments  
+- Smooth layout and transitions  
 
-🛠️ Tech Stack
+Offline Support (PWA)  
+- Works offline using service workers  
+- Fast loading and caching  
 
+Responsive UI  
+- Fully optimized for mobile, tablet, and desktop devices  
 
-Styling: Tailwind CSS
-HTML5
+Modern UI/UX  
+- Tailwind CSS styling  
+- Smooth animations  
+- Minimal and clear structure  
 
+## Tech Stack
+HTML5  
+Tailwind CSS  
+JavaScript  
+PWA (Service Workers)
 
-Installation
-bash# Clone the repository
+## Installation
+
 git clone https://github.com/Feisalade/afya-link-frontend.git
-
-# Navigate to project
 cd afya-link-frontend
 
+You can now open the files directly in your browser or deploy them to any static hosting service.
 
+## Design System
 
-🎨 Design System
-Color Palette
-cssPrimary: #4F46E5 (Indigo)
-Secondary: #06B6D4 (Cyan)
-Success: #10B981 (Green)
-Warning: #F59E0B (Amber)
-Error: #EF4444 (Red)
-Typography
+Color Palette  
+Primary: #4F46E5  
+Secondary: #06B6D4  
+Success: #10B981  
+Warning: #F59E0B  
+Error: #EF4444  
 
-Headings: Inter, system-ui
-Body: Inter, -apple-system
+Typography  
+Headings: Inter, system-ui  
+Body: Inter, -apple-system  
 
-Components
+Components  
+- 8px spacing system  
+- Rounded corners (4px, 8px, 12px)  
+- Subtle shadows  
+- Smooth transitions  
+- WCAG AA color contrast  
 
-Consistent 8px spacing grid
-Rounded corners (4px, 8px, 12px)
-Subtle shadows and transitions
-Accessible color contrasts (WCAG AA)
+## Performance
+- Lightweight static files  
+- WebP images + lazy loading  
+- Bundle size under 200KB gzipped  
+- Lighthouse score above 95 on all metrics  
 
+## Accessibility
+- WCAG 2.1 AA compliant  
+- Keyboard-friendly navigation  
+- ARIA labels  
+- Visible focus indicators  
 
-🚀 Performance
+## Browser Support
+Chrome (latest)  
+Edge (latest)  
+Firefox (latest)  
+Safari (latest)  
+iOS Safari  
+Android Chrome  
 
-Code Splitting: Route-based lazy loading
-Image Optimization: WebP format with lazy loading
-Bundle Size: < 200KB (gzipped)
-Lighthouse Score: 95+ across all metrics
+## Contributing
+Contributions are welcome. Please read the contributing guidelines before submitting.
 
+## License
+MIT License. See LICENSE file for details.
 
-♿ Accessibility
-
-WCAG 2.1 AA compliant
-Keyboard navigation support
-Screen reader optimized
-Focus indicators and ARIA labels
-
-
-📱 Browser Support
-
-Chrome/Edge (last 2 versions)
-Firefox (last 2 versions)
-Safari (last 2 versions)
-iOS Safari (last 2 versions)
-Android Chrome (last 2 versions)
-
-
-🤝 Contributing
-Contributions are welcome! Please read our Contributing Guide first.
-
-📄 License
-MIT License - see LICENSE file
-
-📧 Contact
-Project Link: https://github.com/Feisaladen/afya-link-frontend
+## Contact
+Project Link: https://github.com/Feisalade/afya-link-frontend
